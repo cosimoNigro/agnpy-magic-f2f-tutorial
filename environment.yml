@@ -9,16 +9,14 @@ channels:
 
 dependencies:
   - python=3.9
-  - numpy=1.23
-  - scipy=1.9.1
-  - matplotlib=3.6.2
-  - astropy=5.1
-  - iminuit=2.17
+  - numpy
+  - scipy
+  - astropy
+  - matplotlib
+  - iminuit
   - gammapy=1.0
-  - sherpa=4.15.0
-  - ipython
-  - jupyter
+  - swig
   - pip
   - pip:
-    - agnpy
+    - agnpy==0.4.0
     - git+https://github.com/andreatramacere/jetset.git@1.2.2
