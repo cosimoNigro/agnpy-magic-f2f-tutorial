@@ -1,0 +1,27 @@
+name: agnpy-tutorial
+
+channels:
+  - anaconda
+  - conda-forge
+  - sherpa
+  - andreatramacere
+  - astropy
+
+dependencies:
+  - python>3.7.0
+  - numpy=1.21.4
+  - scipy=1.7.2
+  - astropy=4.3.1
+  - matplotlib=3.4.3
+  - iminuit=1.5.4
+  - gammapy=1.0
+  - ipython
+  - jupyter
+  - numba
+  - sherpa
+  - dill
+  - swig
+  - pip
+  - pip:
+    - agnpy
+    - jetset
