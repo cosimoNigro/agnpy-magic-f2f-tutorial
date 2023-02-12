@@ -33,6 +33,7 @@ dependencies:
   - requests
   - tqdm
   - swig
+  - dill
   - pip:
     - agnpy==0.4.0
     - git+https://github.com/andreatramacere/jetset.git@1.2.2
