@@ -19,6 +19,6 @@ dependencies:
   - ipython
   - jupyter
   - pip
-  - jetset
   - pip:
     - agnpy
+    - git+https://github.com/andreatramacere/jetset.git@1.2.2
