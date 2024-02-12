@@ -1,6 +1,6 @@
 # agnpy-magic-f2f-tutorial
 This repository gathers the tutorial notebooks for the hands-on session dedicated to agnpy
-during the [January 2023 MAGIC face-to-face working groups meeting](https://indico.mpp.mpg.de/event/9378/).
+during the [February 2024 MAGIC face-to-face working groups meeting](https://indico.mpp.mpg.de/event/9879/).
 
 
 In these notebooks we will illustrate the modelling capabilities of [`agnpy`](https://agnpy.readthedocs.io/en/latest/) and its interface with data analysis packages such as [`gammapy`](https://gammapy.org/).
